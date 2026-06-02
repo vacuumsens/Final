@@ -1,0 +1,24 @@
+﻿Designator,Quantity,Value,Footprint,Package,MPN,DNP,Mount_Type,LCSC Part,Description
+"C2, C6",2,4.7uF,C0805,,,,smt,C1779,
+"C3, C4, C5, C8",4,22uF,C1206,,,,smt,C1859,
+C7,1,0.1uF,C0402,,,,smt,C1525,
+"D4, D6",2,Schottky,SMA_L4.3-W2.6-LS5.2-RD,,,,smt,C8678,
+H1,1,12V_Sensor,HDR-TH_2P-P2.54-V-M-1,,,,tht,C124375,
+H2,1,RaspberryPI,HDR-TH_2P-P2.54-V-M-1,,,,tht,C124375,
+J1,1,USB_C_Receptacle_PowerOnly_6P,TYPE-C-SMD_TYPE-C-6P,,,,smt,C283540,USB Power-Only 6P Type-C Receptacle connector
+J2,1,USB_A,USB-A-TH_AF-WJDG,,,,tht,,USB Type A connector
+"L1, L2",2,22uF,IND-SMD_L7.5-W7.5,,,,tht,C19268629,
+LED1,1,Blue,LED0805-R-RD,,,,smt,C2293,
+LED2,1,Red,LED1206-R-RD_RED,,,,smt,C49018,
+LED3,1,Green,LED0805-R-RD,,,,smt,C2292,
+"R1, R2",2,5.1k,R0603,,,,smt,C23186,
+R10,1,4.7k,R0805,,,,smt,C17673,
+"R11, R6, R7",3,470,R0805,,,,smt,C17710,
+R3,1,22k,R0805,,,,smt,C17560,
+R4,1,3k,R0603,,,,smt,C177274,
+"R8, RPROG3",2,10k,R0805,,,,smt,C17414,
+R9,1,91k,R0805,,,,smt,C17866,
+RPROG1,1,1k,R1206,,,,smt,C4410,
+"U2, U3",2,MT3608,SOT-23-6_L2.9-W1.6-P0.95-LS2.8-BL,,,,smt,,"High Efficiency 1.2MHz 2A Step Up Converter, 2-24V Vin, 28V Vout, 4A current limit, 1.2MHz, SOT23-6"
+U4,1,MCP73871,QFN-20_L4.0-W4.0-P0.5-BL-EP,,,,smt,C511310,"Single cell, Li-Ion/Li-Po charge management controller"
+U5,1,Battery Input,CONN-TH_S2B-PH-K-S-GW,,,,tht,C157932,

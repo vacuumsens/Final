@@ -1,0 +1,74 @@
+﻿Designator,Quantity,Value,Footprint,Package,MPN,DNP,Mount_Type,Description,KiLib_Generator,LCSC Part,Manufacturer,LCSC,Stock,Price,Process,Minimum Qty,Attrition Qty,Class,Category,Part,Voltage Rated,Tolerance,Capacitance,Temperature Coefficient,Emitted Color,Sim.Device,Sim.Pins,Power Dissipation,Zener Impedance (Zzt),Diode Configuration,Zener Voltage (Range),Zener Voltage (Nom),Reverse Leakage Current (Ir),Operating Temperature,Viewing Angle,Forward Current,Forward Voltage (VF),Luminous Intensity,Dominant Wavelength,Lens Color,Resistance,Power(Watts),Type,Overload Voltage (Max),Operating Temperature Range
+", , , , , , , , , , , , , ",14,,,,,,tht,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+12V,1,12VOUT,PinHeader_1x01_P2.54mm_Vertical,,,Yes,tht,test point,connector/pin_header_socket,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+3V3,1,3V3,PinHeader_1x01_P2.54mm_Vertical,,,Yes,tht,test point,connector/pin_header_socket,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+"C10, C11, C12, C8",4,10uf,C0805,,GRM21BR61E106KA73L,,smt,,,C84416,muRata(村田),,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+"C13, C14, C15, C16, C18, C22, C29, C33, C35, C36, C65, C_sense7, C_sense8, C_sense9",14,100nF,C_0603,,,,smt,50V 100nF X7R ±10% 0603 Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS,,,YAGEO,C14663,70324515,0.006USD,SMT,20,10,Basic Component,"Capacitors,Multilayer Ceramic Capacitors MLCC - SMD/SMT",CC0603KRX7R9BB104,50V,±10%,100nF,X7R,,,,,,,,,,,,,,,,,,,,,
+"C19, C2, C3, C6, C7",5,100nf,C0805,,CL21B104KBCNNNC,,smt,100nF (104) ±10% 50V,,C1711,SAMSUNG(三星),,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+C21,1,330uf,CAP-SMD_BD10.0-L10.3-W10.3-FD,,RVT1V331M1010,,smt,330uF 35V,,C19606,HONOR(荣誉),,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+"C23, C24, C25",3,470uf,CAP-SMD_BD10.0-L10.3-W10.3-LS11.0-FD,,RVT1E471M1010,,smt,470uF 25V,,C3351,HONOR(荣誉),,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+C27,1,100nF,C_0805,,,,smt,100V 100nF X7R ±10% 0805 Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS,,,Samsung Electro-Mechanics,C28233,1168020,0.009USD,SMT,20,10,Basic Component,"Capacitors,Multilayer Ceramic Capacitors MLCC - SMD/SMT",CL21B104KCFNNNE,100V,±10%,100nF,X7R,,,,,,,,,,,,,,,,,,,,,
+"C38, C39",2,1uF,C_0603,,,,smt,50V 1uF X5R ±10% 0603 Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS,,,Samsung Electro-Mechanics,C15849,11535980,0.008USD,SMT,20,10,Basic Component,"Capacitors,Multilayer Ceramic Capacitors MLCC - SMD/SMT",CL10A105KB8NNNC,50V,±10%,1uF,X5R,,,,,,,,,,,,,,,,,,,,,
+"C4, C5",2,22uf,C0805,,,,smt,,,C45783,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+C40,1,4.7uF,C_0603,,,,smt,16V 4.7uF X5R ±10% 0603 Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS,,,Samsung Electro-Mechanics,C19666,4246728,0.013USD,SMT,20,10,Basic Component,"Capacitors,Multilayer Ceramic Capacitors MLCC - SMD/SMT",CL10A475KO8NNNC,16V,±10%,4.7uF,X5R,,,,,,,,,,,,,,,,,,,,,
+CN1,1,DC3-2.54-14PAL,IDC-TH_14P-P2.54_ZHOURI_DC3-2.54-14PAL,,DC3-2.54-14PAL,,tht,,,C5156673,ZHOURI(洲日),,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+"D1, D2, D5",3,SS54_C22452,SMA_L4.4-W2.8-LS5.4-R-RD,,SS54,,smt,SS54,,C22452,MDD(辰达半导体),,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+"D10, D12, D9",3,Green,D_0805,,,,smt,Emerald 0805 LED Indication - Discrete ROHS,,,Hubei KENTO Elec,C2297,2062782,0.014USD,SMT,20,10,Basic Component,"Optoelectronics,Light Emitting Diodes (LED)",KT-0805G,,,,,Emerald,,,,,,,,,,,,,,,,,,,,
+D11,1,1N4148W,D_SOD-123,,,,smt,"75V 0.15A Fast Switching Diode, SOD-123",,,,,,,,,,,,,,,,,,D,1=K 2=A,,,,,,,,,,,,,,,,,,
+"D13, D3, D6, D7",4,BZX84C5V6,D_SOT-23,,,,smt,Independent Type 5.2V~6V 300mW 5.6V SOT-23 Zener Diodes ROHS,,,hongjiacheng,C19077469,28430,0.019USD,SMT,10,4,Preferred Component,"Diodes,Zener Diodes",BZX84C5V6,,,,,,,,,,,,,,,,,,,,,,,,,
+D14,1,BZX84C3V3,D_SOT-23,,,,smt,Independent Type 300mW 3.1V~3.5V 3.3V SOT-23 Zener Diodes ROHS,,,hongjiacheng,C19077467,26935,0.020USD,SMT,10,4,Preferred Component,"Diodes,Zener Diodes",BZX84C3V3,,,,,,,,300mW,95Ω,Single,3.1V~3.5V,3.3V,5uA@1V,,,,,,,,,,,,
+D8,1,Red,D_0805,,,,smt,25mA Colorless transparent lens 67mcd~195mcd -30°C~+85°C 615nm~630nm Individual diode Red 130° 65mW 1.6V~2.6V 0805 LED Indication - Discrete ROHS,,,Foshan NationStar Optoelectronics,C84256,2976925,0.016USD,SMT,20,10,Basic Component,"Optoelectronics,Light Emitting Diodes (LED)",NCD0805R1,,,,,Red,,,65mW,,Independent Diode,,,,-30°C~+85°C,130°,25mA,1.6V~2.6V,67mcd~195mcd,615nm~630nm,Colorless Transparent Lens,,,,,
+DSub2,1,DS1038-15FBNSIA74-0CC,DSUB-TH_DS1038-15FBNSIA74-0CC,,,,tht,,,C75754,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+"GND, GND, GND",3,GND,PinHeader_1x01_P2.54mm_Vertical,,,Yes,tht,test point,connector/pin_header_socket,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+L1,1,SPM6530T-2R2M,IND-SMD_L7.1-W6.5-P5.60,,SPM6530T-2R2M,,smt,,,C76855,TDK,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+"L3, L5",2,SMDRI127-330MT,IND-SMD_L12.3-W12.3,,SMDRI127-330MT,,smt,,,C9400,SXN(顺翔诺),,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+"Q1, Q2, Q3",3,DMN2004K-7,SOT-23-3_L3.0-W1.7-P0.95-LS2.9-BR,,DMN2004K-7,,smt,,,C75285,DIODES(美台),,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Q11,1,BSS84,SOT-23,,,,smt,"-0.13A Id, -50V Vds, P-Channel MOSFET, SOT-23",,C82079,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+"Q14, Q21, Q24, Q25, Q26",5,2N7002,SOT-23-3_L2.9-W1.3-P1.90-LS2.4-BR,,,,smt,,,C8545,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+"Q17, Q18, Q22, Q27, Q28",5,CJQ4435,SOP-8_L5.0-W4.0-P1.27-LS6.2-BL,,,,smt,,,C114076,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Q23,1,currentmirror,SOT-363-6_L2.2-W1.3-P0.65-LS2.1-BL,,,,smt,,,C41375126,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Q5,1,AO4892,SOIC-8_3.9x4.9mm_P1.27mm,,,,smt,"4A Id, 100V Vds, Dual N-Channel MOSFET, 68mOhm Ron, SO-8",,C357830,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+R1,1,0805W8F2553T5E,R0805,,0805W8F2553T5E,,smt,255KΩ (2553) ±1%,,C17578,UNI-ROYAL(厚声),,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+"R10, R21, R22, R53, R9",5,1kΩ,R_0805,,,,smt,125mW Thick Film Resistors 150V ±100ppm/°C ±1% 1kΩ 0805 Chip Resistor - Surface Mount ROHS,,,UNI-ROYAL(Uniroyal Elec),C17513,7431283,0.005USD,SMT,20,10,Basic Component,"Resistors,Chip Resistor - Surface Mount",0805W8F1001T5E,,±1%,,±100ppm/°C,,,,,,,,,,,,,,,,,1kΩ,125mW,Thick Film Resistors,150V,-55°C~+155°C
+"R11, R16, R24, R25, R26",5,10kΩ,R_0805,,,,smt,125mW Thick Film Resistors 150V ±100ppm/°C ±1% 10kΩ 0805 Chip Resistor - Surface Mount ROHS,,,UNI-ROYAL(Uniroyal Elec),C17414,12301172,0.005USD,SMT,20,10,Basic Component,"Resistors,Chip Resistor - Surface Mount",0805W8F1002T5E,,±1%,,±100ppm/°C,,,,,,,,,,,,,,,,,10kΩ,125mW,Thick Film Resistors,150V,-55°C~+155°C
+R12,1,62kΩ,R_0805,,,,smt,125mW Thick Film Resistors 150V ±100ppm/°C ±1% 62kΩ 0805 Chip Resistor - Surface Mount ROHS,,,UNI-ROYAL(Uniroyal Elec),C17783,53461,0.005USD,SMT,20,10,Preferred Component,"Resistors,Chip Resistor - Surface Mount",0805W8F6202T5E,,±1%,,±100ppm/°C,,,,,,,,,,,,,,,,,62kΩ,125mW,Thick Film Resistors,150V,-55°C~+155°C
+"R13, R20, R8",3,33Ω,R_0805,,,,smt,125mW Thick Film Resistors 150V ±1% ±200ppm/°C 33Ω 0805 Chip Resistor - Surface Mount ROHS,,,UNI-ROYAL(Uniroyal Elec),C17634,335994,0.005USD,SMT,20,10,Basic Component,"Resistors,Chip Resistor - Surface Mount",0805W8F330JT5E,,±1%,,±200ppm/°C,,,,,,,,,,,,,,,,,33Ω,125mW,Thick Film Resistors,150V,-55°C~+155°C
+R14,1,1MΩ,R_0805,,,,smt,125mW Thick Film Resistors 150V ±100ppm/°C ±1% 1MΩ 0805 Chip Resistor - Surface Mount ROHS,,,UNI-ROYAL(Uniroyal Elec),C17514,859014,0.005USD,SMT,20,6,Basic Component,"Resistors,Chip Resistor - Surface Mount",0805W8F1004T5E,,±1%,,±100ppm/°C,,,,,,,,,,,,,,,,,1MΩ,125mW,Thick Film Resistors,150V,-55°C~+155°C
+"R15, R52, R54",3,1MΩ,R_0603,,,,smt,100mW Thick Film Resistors 75V ±100ppm/°C ±1% 1MΩ 0603 Chip Resistor - Surface Mount ROHS,,,UNI-ROYAL(Uniroyal Elec),C22935,3961571,0.004USD,SMT,20,10,Basic Component,"Resistors,Chip Resistor - Surface Mount",0603WAF1004T5E,,±1%,,±100ppm/°C,,,,,,,,,,,,,,,,,1MΩ,100mW,Thick Film Resistors,75V,-55°C~+155°C
+"R18, R19",2,51kΩ,R_0805,,,,smt,125mW Thick Film Resistors 150V ±100ppm/°C ±1% 51kΩ 0805 Chip Resistor - Surface Mount ROHS,,,UNI-ROYAL(Uniroyal Elec),C17737,572610,0.005USD,SMT,20,10,Basic Component,"Resistors,Chip Resistor - Surface Mount",0805W8F5102T5E,,±1%,,±100ppm/°C,,,,,,,,,,,,,,,,,51kΩ,125mW,Thick Film Resistors,150V,-55°C~+155°C
+"R2, R3",2,4.7kΩ,R_0805,,,,smt,125mW Thick Film Resistors 150V ±100ppm/°C ±1% 4.7kΩ 0805 Chip Resistor - Surface Mount ROHS,,,UNI-ROYAL(Uniroyal Elec),C17673,4733934,0.005USD,SMT,20,6,Basic Component,"Resistors,Chip Resistor - Surface Mount",0805W8F4701T5E,,±1%,,±100ppm/°C,,,,,,,,,,,,,,,,,4.7kΩ,125mW,Thick Film Resistors,150V,-55°C~+155°C
+"R31, R32, R33, R40, R44, R45",6,5.1kΩ,R_0603,,,,smt,100mW Thick Film Resistors 75V ±100ppm/°C ±1% 5.1kΩ 0603 Chip Resistor - Surface Mount ROHS,,,UNI-ROYAL(Uniroyal Elec),C23186,9223405,0.004USD,SMT,20,10,Basic Component,"Resistors,Chip Resistor - Surface Mount",0603WAF5101T5E,,±1%,,±100ppm/°C,,,,,,,,,,,,,,,,,5.1kΩ,100mW,Thick Film Resistors,75V,-55°C~+155°C
+"R37, R38, R39, R41, R43, R47, R50",7,10kΩ,R_0603,,,,smt,100mW Thick Film Resistors 75V ±100ppm/°C ±1% 10kΩ 0603 Chip Resistor - Surface Mount ROHS,,,UNI-ROYAL(Uniroyal Elec),C25804,51181774,0.004USD,SMT,20,10,Basic Component,"Resistors,Chip Resistor - Surface Mount",0603WAF1002T5E,,±1%,,±100ppm/°C,,,,,,,,,,,,,,,,,10kΩ,100mW,Thick Film Resistors,75V,-55°C~+155°C
+R4,1,0.5ohm,R1206,,1206W4F500LT5E,,smt,0.5Ω (R500) ±1%,,C25340,UNI-ROYAL(厚声),,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+"R46, R48, R49, R51",4,100kΩ,R_0603,,,,smt,100mW Thick Film Resistors 75V ±100ppm/°C ±1% 100kΩ 0603 Chip Resistor - Surface Mount ROHS,,,UNI-ROYAL(Uniroyal Elec),C25803,7820113,0.004USD,SMT,20,10,Basic Component,"Resistors,Chip Resistor - Surface Mount",0603WAF1003T5E,,±1%,,±100ppm/°C,,,,,,,,,,,,,,,,,100kΩ,100mW,Thick Film Resistors,75V,-55°C~+155°C
+R5,1,100k,R0805,,0805W8J0104T5E,,smt,100KΩ (104) ±5%,,C25611,UNI-ROYAL(厚声),,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+R6,1,3362P-1-204,RES-ADJ-TH_3P-L7.1-W6.9-P2.50-L_3362P,,3362P-1-204,,tht,,,C118941,BOCHEN(博晨),,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+"RPROG10, RPROG11, RPROG12, RPROG13, RPROG14, RPROG15, RPROG8, RPROG9",8,1kΩ,R_0603,,,,smt,100mW Thick Film Resistors 75V ±100ppm/°C ±1% 1kΩ 0603 Chip Resistor - Surface Mount ROHS,,,UNI-ROYAL(Uniroyal Elec),C21190,27538425,0.004USD,SMT,20,10,Basic Component,"Resistors,Chip Resistor - Surface Mount",0603WAF1001T5E,,±1%,,±100ppm/°C,,,,,,,,,,,,,,,,,1kΩ,100mW,Thick Film Resistors,75V,-55°C~+155°C
+RX,1,RX,PinHeader_1x01_P2.54mm_Vertical,,,Yes,tht,test point,connector/pin_header_socket,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+"R_sense5, R_sense6, R_sense7",3,100Ω,R_0603,,,,smt,100mW Thick Film Resistors 75V ±1% ±200ppm/°C 100Ω 0603 Chip Resistor - Surface Mount ROHS,,,UNI-ROYAL(Uniroyal Elec),C22775,8202320,0.004USD,SMT,20,10,Basic Component,"Resistors,Chip Resistor - Surface Mount",0603WAF1000T5E,,±1%,,±200ppm/°C,,,,,,,,,,,,,,,,,100Ω,100mW,Thick Film Resistors,75V,-55°C~+155°C
+Rsense3,1,LTR18EZPFSR015,R0612,,,,tht,,,C510175,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+SW3,1,TS-1088R-02026,SW-SMD_L3.9-W3.0-P4.45,,,,smt,,,C455280,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+TP10,1,VSYS,PinHeader_1x01_P2.54mm_Vertical,,,Yes,tht,test point,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+TP15,1,SDA,PinHeader_1x01_P2.54mm_Vertical,,,Yes,tht,test point,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+TP16,1,SCL,PinHeader_1x01_P2.54mm_Vertical,,,Yes,tht,test point,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+TP2,1,TestPoint,PinHeader_1x01_P2.54mm_Vertical,,,,tht,test point,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+TP21,1,5V,PinHeader_1x01_P2.54mm_Vertical,,,Yes,tht,test point,connector/pin_header_socket,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+TP3,1,TestPoint,PinHeader_1x01_P2.54mm_Vertical,,,Yes,tht,test point,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+TP4,1,TestPoint,PinHeader_1x01_P2.54mm_Vertical,,,Yes,tht,test point,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+TP5,1,TestPoint,PinHeader_1x01_P2.54mm_Vertical,,,Yes,tht,test point,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+TP6,1,BAT-,PinHeader_1x01_P2.54mm_Vertical,,,Yes,tht,test point,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+TP7,1,Bat+,PinHeader_1x01_P2.54mm_Vertical,,,Yes,tht,test point,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+TP8,1,VBUS,PinHeader_1x01_P2.54mm_Vertical,,,Yes,tht,test point,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+TP9,1,TestPoint,PinHeader_1x01_P2.54mm_Vertical,,,Yes,tht,test point,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+TX,1,TX,PinHeader_1x01_P2.54mm_Vertical,,,Yes,tht,test point,connector/pin_header_socket,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+U1,1,IP2326,VQFN-24_L4.0-W4.0-P0.50-BL-EP2.5,,IP2326,,smt,,,C2832094,INJOINIC(英集芯),,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+U10,1,MAX3232CDBR,SSOP-16_L6.2-W5.3-P0.65-LS7.8-BL,,,,smt,,,C7257,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+U12,1,ADS1115IDGSR,MSOP-10_L3.0-W3.0-P0.50-LS5.0-BL,,,,smt,,,C37593,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+U19,1,TPL5110DDCT,TSOT-23-6_L2.9-W1.6-P0.95-LS2.8-BR,,,,smt,,,C125830,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+U2,1,MAX17048G+T10,TDFN-8_L2.0-W2.0-P0.50-BL-EP1.2,,,,smt,,,C2682616,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+U3,1,BQ7692003PWR,TSSOP-20_L6.5-W4.4-P0.65-LS6.4-BL,,BQ7692003PWR,,smt,,,C601650,TI(德州仪器),,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+U4,1,LM2596SX-3.3,TO-263-5_L10.2-W8.6-P1.70-LS14.4-TL,,LM2596SX-3.3,,smt,,,C5186052,Slkor(萨科微),,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+U6,1,LM2596SX-5.0/NOPB,TO-263-5_L10.2-W8.9-P1.70-TL,,LM2596SX-5.0/NOPB,,smt,,,C10002,TI(德州仪器),,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+U7,1,2.54-2*20,HDR-TH_40P-P2.54-V-F-R2-C20-S2.54,,,,tht,,,C2977589,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+USBC1,1,TYPE-C-31-M-12,USB-C_SMD-TYPE-C-31-M-12_1,,,,smt,,,C165948,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+VSYS,1,VSYS2,PinHeader_1x01_P2.54mm_Vertical,,,Yes,tht,test point,connector/pin_header_socket,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,

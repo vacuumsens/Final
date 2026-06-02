@@ -1,0 +1,6 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "easyeda2kicad")(type "KiCad")(uri "${KIPRJMOD}/../libs/easyeda2kicad.kicad_sym")(options "")(descr ""))
+  (lib (name "EasyEDA")(type "KiCad")(uri "${KIPRJMOD}/LCSC/EasyEDA.kicad_sym")(options "")(descr ""))
+  (lib (name "RpiHat")(type "KiCad")(uri "C:/Users/abdul/Downloads/RPi_Hat_Template-master/RPi_Hat_Template-master/libraries/RPi_Hat.kicad_sym")(options "")(descr ""))
+)

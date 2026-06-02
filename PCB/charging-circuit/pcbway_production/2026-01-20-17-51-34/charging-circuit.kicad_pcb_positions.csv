@@ -1,0 +1,4 @@
+﻿pos_x,pos_y,rotation,side,designator,mpn,pack,footprint,value,mount_type
+41.64,-88.2975,0.0,top,U1,,,QFN-20-1EP_4x4mm_P0.5mm_EP2.5x2.5mm,MCP73871,smt
+31.6175,-87.31,0.0,top,U2,,,SOT-23-6,MT3608,smt
+30.3475,-95.57,0.0,top,U3,,,SOT-23-6,MT3608,smt

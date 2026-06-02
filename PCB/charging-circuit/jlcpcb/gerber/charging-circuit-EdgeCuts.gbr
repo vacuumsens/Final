@@ -1,0 +1,23 @@
+%TF.GenerationSoftware,KiCad,Pcbnew,9.0.7*%
+%TF.CreationDate,2026-01-22T13:23:29-08:00*%
+%TF.ProjectId,charging-circuit,63686172-6769-46e6-972d-636972637569,rev?*%
+%TF.SameCoordinates,Original*%
+%TF.FileFunction,Profile,NP*%
+%FSLAX46Y46*%
+G04 Gerber Fmt 4.6, Leading zero omitted, Abs format (unit mm)*
+G04 Created by KiCad (PCBNEW 9.0.7) date 2026-01-22 13:23:29*
+%MOMM*%
+%LPD*%
+G01*
+G04 APERTURE LIST*
+%TA.AperFunction,Profile*%
+%ADD10C,0.050000*%
+%TD*%
+G04 APERTURE END LIST*
+D10*
+X46990000Y-55880000D02*
+X143510000Y-55880000D01*
+X143510000Y-123190000D01*
+X46990000Y-123190000D01*
+X46990000Y-55880000D01*
+M02*

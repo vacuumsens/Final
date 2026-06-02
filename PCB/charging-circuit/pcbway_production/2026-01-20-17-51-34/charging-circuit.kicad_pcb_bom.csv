@@ -1,0 +1,3 @@
+﻿Designator,Quantity,Value,Footprint,Package,MPN,DNP,Mount_Type,Description
+U1,1,MCP73871,QFN-20-1EP_4x4mm_P0.5mm_EP2.5x2.5mm,,,,smt,"Single cell, Li-Ion/Li-Po charge management controller"
+"U2, U3",2,MT3608,SOT-23-6,,,,smt,"High Efficiency 1.2MHz 2A Step Up Converter, 2-24V Vin, 28V Vout, 4A current limit, 1.2MHz, SOT23-6"
