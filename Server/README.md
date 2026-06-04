@@ -4,6 +4,10 @@
 
 The Server module is the central hub of the Senseeker system. It provides a web-based dashboard for monitoring client devices, managing data collection, configuring system settings, and storing sensor data in MongoDB. The Server consists of a Frontend UI and a Backend API with database integration.
 
+##
+Just install using windows installer Server.exe on computer on local network and run app and should be good to go. 
+If you want to work with the files and scripts continuie below. 
+
 ## Architecture
 
 The Server module has two main components:
