@@ -14,6 +14,8 @@ The Client module is the edge device component of the Senseeker system. It runs 
 
 ## Setup Instructions
 
+Just install custom imagae vsens-client.img.xz using standard Raspi Imager found online.  For more information if you want to modify files and scripts, continue below. 
+
 ### 1. System Preparation
 
 Ensure your Raspberry Pi has i2c enabled:
