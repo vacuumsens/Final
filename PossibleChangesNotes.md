@@ -1,0 +1,24 @@
+# PCB:
+- May need to ground raspi header and battery pins if ground does not work.
+- Can you use all testpoints for verification, but should not need extra wiring.
+- Will need to wire batteries correctly to the PCB, four leads to the balancer.
+- VSYS is the system voltage which is also battery, and this power heater.
+- However, heater may need higher voltage if it is underpowered.
+- For this we recommend adding another step up voltage regulator and attaching that to the PWM section of the Heater module. (right now it is powered straight off battery voltage)
+- Heater works off of PWM so strict voltage amount is not required.
+- For tuning the controller, the client has code that has gains for proportional, integral, and derivative. A recommended change could be to have these as user variables that are editable on the website, it is a pretty easy modification, just send these details in the same way setpoint is sent through the payload. Modify the website through the frontend with buttons. 
+
+# Client:
+- Automatic Startup will be enabled, but if want to run manually through python scripts, may need to kill old processes.
+- Post-sender.py is our main file.
+## Troubleshooting Tips:
+Extra information in case it doesn't work
+- Make sure i2c and serial are enabled via ```sudo raspi-config```
+- If zeros are being reported, check rounding inn ```post-sender.py```, it should be disabled be default 
+
+# Server:
+- Server uses npm, command is npm start or npm run host on the outside directory. 
+- Frontend has all UI assets.
+- Backend does Mongo db and port configurations - can add your own database here.
+- Password is on mongoDB, can be enabled or disabled on the website settings itself. 
+- When installing make sure to allow permissions or else ports won't connect and dashboard will be empty.
